@@ -1,16 +1,16 @@
-# Pinterest Wall 🎨
+# Pinterest Wall
 
 A dreamy, floating image wall that brings your Pinterest boards to life with smooth animations and premium aesthetics.
 
 ![Pinterest Wall Demo](https://raw.githubusercontent.com/anirudhsinghdahiya/pinterest-wall/main/demo.png)
 
-## ✨ Current Status
+## Current Status
 
-**🚧 Work in Progress - Aesthetic Test Phase**
+**Work in Progress - Aesthetic Test Phase**
 
 This project is currently in development and serves as an aesthetic proof-of-concept. The current implementation uses demo Unsplash images while awaiting Pinterest Developer API approval.
 
-## 🎯 Project Vision
+## Project Vision
 
 The goal is to create an immersive, living mood board that:
 - Continuously displays images from your curated Pinterest boards
@@ -20,7 +20,7 @@ The goal is to create an immersive, living mood board that:
 
 Think of it as a digital lava lamp, but with your carefully curated aesthetic instead of blobs.
 
-## 🎨 Current Features
+## Current Features
 
 ### Premium Aesthetic
 - **Atmospheric Background**: Animated gradient that slowly shifts between deep purples and blues
@@ -42,7 +42,7 @@ Think of it as a digital lava lamp, but with your carefully curated aesthetic in
 - Size variation (180-380px) for visual interest
 - No jerky resets - smooth `repeatType: 'loop'` implementation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -64,7 +64,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the wall.
 
-## 📋 Roadmap
+## Roadmap
 
 ### Phase 1: Aesthetic Foundation ✅
 - [x] Smooth continuous animation system
@@ -90,7 +90,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the wall.
 - [ ] Keyboard shortcuts
 - [ ] Settings persistence
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
@@ -99,7 +99,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the wall.
 - **Image Optimization**: Next.js Image component
 - **API Integration**: Pinterest API (pending approval)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 pinterest-wall/
@@ -116,7 +116,7 @@ pinterest-wall/
     └── generate-demo-data.js # Demo data generator
 ```
 
-## 🎭 Design Philosophy
+## Design Philosophy
 
 This project prioritizes **aesthetic excellence** over minimalism. The goal is to create something that:
 - Feels premium and polished from first glance
@@ -124,7 +124,7 @@ This project prioritizes **aesthetic excellence** over minimalism. The goal is t
 - Creates an emotional response - calm, dreamy, inspiring
 - Demonstrates technical skill while maintaining code quality
 
-## 🔮 Future Ideas
+## Future Ideas
 
 - **Multi-monitor support**: Span the wall across multiple displays
 - **Music integration**: Sync animation speed with ambient music
@@ -132,18 +132,18 @@ This project prioritizes **aesthetic excellence** over minimalism. The goal is t
 - **Social features**: Share your wall configuration with others
 - **Screensaver mode**: Full-screen mode with no UI elements
 
-## 📝 Notes
+## Notes
 
 - Currently using Unsplash demo images (116 images across various themes)
 - Pinterest Developer API application pending approval
 - Optimized for desktop viewing (mobile support coming in Phase 4)
 - All animations use hardware acceleration for smooth performance
 
-## 🤝 Contributing
+## Contributing
 
 This is a personal project, but suggestions and ideas are welcome! Feel free to open an issue to discuss potential improvements.
 
-## 📄 License
+## License
 
 MIT License - feel free to use this code for your own projects!
 
